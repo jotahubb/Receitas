@@ -64,3 +64,10 @@ p {
 ul {
   padding-left: 24px;
 }
+
+footer {
+  font-weight: bolder;
+  color: #291B1A;
+  text-align: center;
+  padding-bottom: 48px;
+}
